@@ -47,6 +47,3 @@ id = 45n;
 console.log(typeof id);  // bigint
 id = "45";
 console.log(typeof id);  // string
-
-
-
